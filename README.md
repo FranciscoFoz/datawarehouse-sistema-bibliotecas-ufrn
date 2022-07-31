@@ -5,7 +5,7 @@
 
 ## Introdução
 
-Este projeto tem como objetivo criar um banco de dados relacional a partir dos dados de empréstismos da biblioteca pública de Seattle, disponibilizados pela própria instituição.
+Este projeto tem como objetivo criar um banco de dados relacional a partir dos dados de empréstimos da biblioteca pública de Seattle, disponibilizados pela própria instituição.
 
 [Fonte de dados](https://data.seattle.gov/Community/Checkouts-By-Title-Physical-Items-/5src-czff)
 
