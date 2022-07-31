@@ -1,3 +1,5 @@
+![](https://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTRU%C3%87%C3%83O&color=%3CCOLOR%3E)
+
 # Banco de dados: Seattle Public Library
 ![](https://cdn.vox-cdn.com/thumbor/7LKEMiUgFadKjqsCT7Fb8r_UjUw=/0x0:3456x2304/920x613/filters:focal(1452x876:2004x1428):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/60461659/shutterstock_714320911.0.jpg)
 
