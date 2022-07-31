@@ -13,9 +13,9 @@ O projeto será desenvolvido desde a modelagem dos dados até a implementação 
 
 ### Modelagem de dados
 
-Você pode ter mais informações da estrutura criada [aqui]().
+Você pode ter mais informações da estrutura criada [aqui](https://github.com/FranciscoFoz/Banco-de-dados-Seattle-Public-Library/tree/main/Modelagem%20de%20dados).
 
-Mas o modelo ficou:
+A estrutura do modelo ficou:
 
 
 ### Banco de dados MySQL
