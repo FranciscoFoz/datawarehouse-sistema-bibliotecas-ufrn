@@ -1,6 +1,6 @@
 ![](https://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTRU%C3%87%C3%83O&color=%3CCOLOR%3E)
 
-# Banco de dados: Seattle Public Library
+# Data Warehouse: Sistemas de bibliotecas da UFRN
 
 ![](https://raw.githubusercontent.com/FranciscoFoz/datawarehouse-sistema-bibliotecas-ufrn/main/README_Imagem/ufrn_imagem.png)
 
