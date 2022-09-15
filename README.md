@@ -14,19 +14,20 @@ Este projeto tem como objetivo criar um Data Warehouse a partir dos dados do ace
 
 O projeto será desenvolvido desde a modelagem dos dados até a implementação do banco de dados.
 
-### Modelagem de dados
+## Modelagem de dados
+
 
 Você pode ter mais informações da estrutura criada [aqui]().
 
 A estrutura do modelo ficou:
 
 
-### Banco de dados MySQL
+## Banco de dados
 
 O SGBD escolhido foi o MySQL.
 
-### Software de ETL
+## Software de ETL
 
 O software de ETL escolhido foi o Pentaho.
 
-### Considerações finais
+## Considerações finais
